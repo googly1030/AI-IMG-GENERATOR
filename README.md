@@ -1,4 +1,5 @@
 #AI Image Generator using Dall-e
+![CxkQw5jSt836ejKfSixSAP-1200-80](https://user-images.githubusercontent.com/95157270/236364708-82383d9a-3f89-460b-9c92-9c879e72470a.jpg)
 
 important notes : use your own api key from dall-e
 
@@ -21,7 +22,7 @@ Choose the image size and orientation using the dropdown menus.
 Select a style for your image using the "Style" dropdown menu.
 Click the "Generate" button to generate your image.
 Once the image has been generated, you can save it to your local machine by clicking the "Save Image" button.
-![CxkQw5jSt836ejKfSixSAP-1200-80](https://user-images.githubusercontent.com/95157270/236364708-82383d9a-3f89-460b-9c92-9c879e72470a.jpg)
+
 AI GENERATED IMAGE
 
 Credits
