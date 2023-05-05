@@ -1,5 +1,7 @@
 #AI Image Generator using Dall-e
 
+important notes : use your own api key from dall-e
+
 This is a web-based project that allows users to generate unique and creative images using OpenAI's Dall-e image generator. The project is built using HTML, CSS, and JavaScript.
 
 Features
