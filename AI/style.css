@@ -27,13 +27,12 @@ svg{
    justify-content: center;
    height: 20px;
 }
-#submit-icon{
-  color: #d32323;
-  font-size: 45px;
-    position: absolute;
-    top: 44.4rem;
-    right: 738px;
+#button{
+    color: #e61515;
+    border-radius: 20px;
+    
 }
+
 input
 {
 position: absolute;
